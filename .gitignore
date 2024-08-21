@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 환경 설정 파일
+.env
+.vscode/
+.idea/
+
+# 가상 환경
+venv/
+env/
+.venv/
+.env/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.bak
