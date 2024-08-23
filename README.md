@@ -2,7 +2,7 @@
 이미지 증강(image augmentation)용 tool
 
 # todo
-- [ ] cli(argparse)
+- [ ] cli
 
 ## 참고
 - 패키지 : https://github.com/aleju/imgaug
